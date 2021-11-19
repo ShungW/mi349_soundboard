@@ -1,0 +1,38 @@
+html
+{
+    background: #1E2122;
+}
+
+body
+{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #d8d4cf;
+    border-top: 10px solid #eee;
+    background: #181A1B;
+}  
+h1
+{
+    font-size: 2em;
+    margin: 0;
+}
+    
+
+.applausea
+{
+    background-color: green;
+    color: black;
+}
+
+.cougha
+{
+    background-color: black;
+    color: white;
+}
+
+.booa
+{
+    background-color: red;
+    color: black;
+}
